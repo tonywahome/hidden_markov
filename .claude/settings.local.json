@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(unzip -p \"/c/Users/LENOVO/Cloned repos/hhm/HiddenMarkovModel-Data-Grp-21/data/Antony/Walking_1-2026-02-27_07-33-30.zip\" Gyroscope.csv)",
+      "Bash(python -c \":*)",
+      "Bash(unzip -p HiddenMarkovModel-Data-Grp-21/data/Rob/2026-02-26_11-43-31.zip Metadata.csv)",
+      "Bash(unzip -p HiddenMarkovModel-Data-Grp-21/data/Rob/2026-02-26_11-43-31.zip Accelerometer.csv)",
+      "Bash(python3 -c \":*)"
+    ]
+  }
+}
